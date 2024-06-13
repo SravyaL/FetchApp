@@ -15,10 +15,13 @@ Fetch is an Android application designed to fetch and display hiring data from a
 ## Screenshots
 
 ### Launch
-![Screenshot_20240613-114557](https://github.com/SravyaL/FetchApp/assets/22209549/3c9c223a-869f-4785-be88-50559568dfd6)
+
+<img src="https://github.com/SravyaL/FetchApp/assets/22209549/3c9c223a-869f-4785-be88-50559568dfd6" alt="Screenshot_20240613-114557" width="300"/>
+
 
 ### Search 
-![Screenshot_20240613-114611](https://github.com/SravyaL/FetchApp/assets/22209549/d868d0c5-6960-491f-ada8-ff0000b4fbb9)
+<img src="https://github.com/SravyaL/FetchApp/assets/22209549/d868d0c5-6960-491f-ada8-ff0000b4fbb9" alt="Screenshot_20240613-114611" width="300"/>
+
 
 ### Scroll to Top
 ![fetch_backtoTop](https://github.com/SravyaL/FetchApp/assets/22209549/2a54707d-11fd-462f-af45-c4eaaf86bf8a)
