@@ -1,0 +1,17 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the IDE
+.idea/
+.gradle/
+local.properties
+
+# Gradle build output
+/build/
+
+# Keystore files (keep these secure!)
+*.jks
+
+# Other
+.DS_Store
