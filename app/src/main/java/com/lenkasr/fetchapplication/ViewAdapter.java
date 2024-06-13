@@ -10,6 +10,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
+/**
+ * Adapter class for the Recycler View to display the list of items
+ */
 public class ViewAdapter extends RecyclerView.Adapter<ViewAdapter.ViewHolder> {
     private static final String TAG = ViewAdapter.class.getName();
     private List<Hiring> data;

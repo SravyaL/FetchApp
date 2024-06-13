@@ -7,10 +7,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * This class is a Util class to sort and filter the hiring items.
+ */
 public class HiringUtils {
-
+    // Function sorts and filters and returns the updated list.
     public static List<Hiring> sortAndFilter(List<Hiring> items) {
-        //sort items here
 
         //Filter out any items where "name" is blank or null.
         List<Hiring> filteredItems = new ArrayList<Hiring>();

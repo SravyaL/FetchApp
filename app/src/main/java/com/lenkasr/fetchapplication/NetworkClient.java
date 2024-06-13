@@ -8,7 +8,9 @@ import okhttp3.Callback;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
-
+/**
+ * This class deals with API call using OkHttpClient.
+ */
 public class NetworkClient {
 
     private static final OkHttpClient client = new OkHttpClient();

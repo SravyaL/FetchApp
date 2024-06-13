@@ -1,5 +1,8 @@
 package com.lenkasr.fetchapplication;
 
+/**
+ * This class is the model for Hiring Items
+ */
 public class Hiring {
     private int id;
     private int listId;
