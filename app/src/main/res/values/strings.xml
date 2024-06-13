@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FetchApplication</string>
+    <string name="app_name">Fetch</string>
 
     <string name="id">ID</string>
     <string name="listId">List ID</string>
