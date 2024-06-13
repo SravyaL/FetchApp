@@ -1,6 +1,6 @@
-# Fetch Application
+# Fetch 
 
-Fetch Application is an Android application designed to fetch and display hiring data from a remote JSON endpoint. It uses RecyclerView to display items grouped and sorted based on specified criteria.
+Fetch is an Android application designed to fetch and display hiring data from a remote JSON endpoint. It uses RecyclerView to display items grouped and sorted based on specified criteria. The data is available in JSON format at [Hiring.json](https://fetch-hiring.s3.amazonaws.com/hiring.json).
 
 ## Features
 
@@ -34,6 +34,7 @@ Fetch Application is an Android application designed to fetch and display hiring
 
 - Clone the repository and open the project in Android Studio.
 - Build and run the application on an Android emulator or a physical device.
+- The application will be installed on the emulator or physical device with the name "Fetch".
 
 ## Usage
 
@@ -77,5 +78,5 @@ Fetch Application is an Android application designed to fetch and display hiring
 - Open-source libraries used in this project
 
 ## Contact
-For issues, questions, or suggestions related to Fetch Application, please contact [sravyalenka09@gmail.com]/[sravyal@umd.edu].
+For issues, questions, or suggestions related to Fetch Application, please reach out to me at (sravyalenka09@gmail.com)/(sravyal@umd.edu).
 
